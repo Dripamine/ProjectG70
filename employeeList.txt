@@ -1,0 +1,3 @@
+Name: Elon Musk, ID: 1, Hired Date: 04/14/2023, Position: Product Manager
+Name: Bill Gates, ID: 2, Hired Date: 04/15/2023, Position: Developer
+Name: Jeff Bezos, ID: 3, Hired Date: 04/16/2023, Position: Sales Representative
