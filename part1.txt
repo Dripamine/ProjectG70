@@ -1,0 +1,5 @@
+In Array 1, the least expensive UAV is the MAV with a model of "ModelY", size of 0.4, weight of 1.5, and price of 180.0. The most expensive UAV is the AgriculturalDrone with a brand of "FarmersChoice", carry capacity of 12, weight of 60.0, and price of 5500.0.
+
+In Array 2, there are no UAV objects present. Therefore, the output correctly states that no UAVs were found in this array.
+
+The output confirms that the findLeastAndMostExpensiveUAV() method successfully identifies the least and most expensive UAVs in the given arrays, as expected.
