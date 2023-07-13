@@ -1,0 +1,10 @@
+The "Original Objects" section displays the information of the original objects created in the main method.
+
+The "Copied Objects" section displays the information of the copied objects returned by the copyFlyingObjects method.
+Each copied object has the same attribute values as its corresponding original object, indicating that the copying process is successful.
+
+The copied objects are of the same type as the original objects, preserving the class hierarchy and inheritance.
+
+The displayed information confirms that the copyFlyingObjects method successfully creates a copy of the original array, ensuring that any modifications made to the copied objects will not affect the original objects.
+
+The output matches the expected behavior based on the requirements of Part II of the project.
